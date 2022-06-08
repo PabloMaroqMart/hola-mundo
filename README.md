@@ -1,5 +1,4 @@
-# hola-mundo
-Mi primer repositorio de Git
+# Hola Mundo
 -----> También usado como mis apuntes virtuales del curso de innovacciónvirtual<---------
 
 Autor: Pablo Marroquín.
