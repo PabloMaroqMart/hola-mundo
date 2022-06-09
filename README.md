@@ -86,3 +86,53 @@ Azure es un conjunto de servicios en la nube en expansión constante que ayudan 
 .
 Paseo por los servicios de Azure
 .
+Modulo 2
+.
+Nube pública: Servicios disponibles para cualquiera, usando los servicios de nube de teceros
+No hay gastos para escalar verticalmente
+Solo se paga por lo que se usa
+Nube privada: recursos informáticos de uso exclusivo de una organización o empresa, que puede tener su propio centro de datos o estar hospedad por un servicio de terceros
+Las org, tienen control de los recursos y seguridad
+
+
+Son responsables de las actualizaciones y mantenimiento
+Nube hibrida: Permite compartir datos entre la pública y privada
+Máx flexibilidad
+Las organizaciones determinan dónde se van a ejecutar sus aplicaciones.
+Las organizaciones controlan la seguridad, el cumplimiento o los requisitos legales.
+
+Gastos de capital CapEx
+Gastos operativos OpEx
+Dicho de otra forma, si Tailwind Traders es dueño de su infraestructura, comprará equipos que se incluirán como recursos en su balance de cuentas. Dado que se ha realizado una inversión de capital, los contables clasifican esta transacción como CapEx. Con el tiempo, a fin de contabilizar la duración útil limitada de los activos, estos se deprecian o se amortizan.
+
+Los servicios en la nube, por otro lado, se clasifican como OpEx debido a su modelo de consumo. No hay ningún recurso que Tailwind Traders pueda amortizar, y su proveedor de servicios en la nube (Azure) administra los costos asociados con la compra y la vida útil del equipo físico. En consecuencia, los gastos de explotación tienen un impacto directo en el beneficio neto, la base imponible y los gastos asociados en el balance contable.
+
+Modelos de Servicios en la Nube
+IaaS
+
+Infraestructura como servicio
+
+Este modelo de servicio en la nube es el más similar a la administración de servidores físicos; un proveedor de servicios en la nube mantendrá actualizado el hardware, pero el mantenimiento del sistema operativo y la configuración de red serán su responsabilidad como inquilino de nube.
+
+PaaS
+
+Plataforma como servicio
+
+Este modelo de servicio en la nube es un entorno de hospedaje administrado. El proveedor de servicios en la nube administra las máquinas virtuales y los recursos de red, y el inquilino de nube implementa sus aplicaciones en el entorno de hospedaje administrado.}
+
+SaaS
+
+Software como servicio
+
+En este modelo de servicio en la nube, el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones. El inquilino de nube solo necesita proporcionar sus datos a la aplicación administrada por el proveedor de servicios en la nube.
+
+
+Módulo 3
+.
+.
+U2.
+ Recursos: Los recursos son instancias de servicios que puede crear, como máquinas virtuales, almacenamiento o bases de datos SQL.
+ Grupos de recursos: Los recursos se combinan en grupos de recursos, que actúan como contenedor lógico en el que se implementan y administran recursos de Azure como aplicaciones web, bases de datos y cuentas de almacenamiento.
+ Suscripciones: Una suscripción agrupa las cuentas de usuario y los recursos que han creado esas cuentas de usuario. Para cada suscripción, hay límites o cuotas en la cantidad de recursos que se pueden crear y usar. Las organizaciones pueden usar las suscripciones para administrar los costos y los recursos creados por los usuarios, equipos o proyectos.
+ Grupos de administración: Estos grupos le ayudan a administrar el acceso, las directivas y el cumplimiento de varias suscripciones. Todas las suscripciones de un grupo de administración heredan automáticamente las condiciones que se aplican al grupo de administración.
+
