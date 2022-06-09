@@ -76,3 +76,13 @@ Para desarrollar los servicios y ofrecer experiencias de usuario innovadoras y n
 - Un grupo casi ilimitado de componentes de proceso, almacenamiento y redes sin procesar.
 - Reconocimiento de voz y otros servicios cognitivos que ayudan a hacer que su aplicación destaque entre la multitud.
 - Servicios de análisis que proporcionan datos de telemetría desde el software y los dispositivos.
+.
+.....Unidad 3.....
+.
+¿Qué es azure?
+Azure es un conjunto de servicios en la nube en expansión constante que ayudan a la organización a cumplir los desafíos empresariales actuales y futuros. Azure le ofrece la libertad de compilar, administrar e implementar aplicaciones en una red global masiva mediante sus herramientas y plataformas favoritas.
+.
+.....Unidad 4.....
+.
+Paseo por los servicios de Azure
+.
