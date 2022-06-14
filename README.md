@@ -136,3 +136,9 @@ U2.
  Suscripciones: Una suscripción agrupa las cuentas de usuario y los recursos que han creado esas cuentas de usuario. Para cada suscripción, hay límites o cuotas en la cantidad de recursos que se pueden crear y usar. Las organizaciones pueden usar las suscripciones para administrar los costos y los recursos creados por los usuarios, equipos o proyectos.
  Grupos de administración: Estos grupos le ayudan a administrar el acceso, las directivas y el cumplimiento de varias suscripciones. Todas las suscripciones de un grupo de administración heredan automáticamente las condiciones que se aplican al grupo de administración.
 
+Modulo 6
+
+Azure Storage: para migrar aplicaciones a un servicio basado en la nube
+Disk Storage: Maquina virtual de Azure que usa discos de almacenamiento y proceso de datos emulando a los de la realidad SSD, HDD y Ultra disk, requiere de la administración del desarrollador
+Blob Storage: No hay restricción en cuanto al tipo de dato que contiene, cargas simultáneas, vidios etc, no requiere de administración, es GOD para streaming con 8TB de datos para VM
+Azure Files: Es un recurso compartido de almacenamiento de archivos
